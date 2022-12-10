@@ -1,0 +1,59 @@
+{
+    "trending_assets": [
+        {
+            "id": 1,
+            "name": "Bitcoin",
+            "abbreviation": "BTC",
+            "price_in_dollars": 31812.80,
+            "change_in_percent": 10,
+            "tvl": 60000,
+            "icon_path": "Bitcoin SV (BSV).svg",
+            "icon_theme": "#EAB300",
+            "popular_pairs_id": [2, 3, 4]
+        },
+        {
+            "id": 2,
+            "name": "Solano",
+            "abbreviation": "SOL",
+            "price_in_dollars": 32.83,
+            "change_in_percent": -12.32,
+            "tvl": 60000,
+            "icon_path": "Solana (SOL).svg",
+            "icon_theme": "#DC1FFF",
+            "popular_pairs_id": [1, 3, 4]
+        },
+        {
+            "id": 3,
+            "name": "Ethereum",
+            "abbreviation": "ETH",
+            "price_in_dollars": 1466.45,
+            "change_in_percent": -11.93,
+            "tvl": 60000,
+            "icon_path": "Ethereum (ETH).svg",
+            "icon_theme": "#EDF0F4",
+            "popular_pairs_id": [2, 1, 4]
+        },
+        {
+            "id": 4,
+            "name": "Binance USD",
+            "abbreviation": "BUSD",
+            "price_in_dollars": 1,
+            "change_in_percent": 0.26,
+            "tvl": 60000,
+            "icon_path": "Binance Coin (BNB).svg",
+            "icon_theme": "#F3BA2F",
+            "popular_pairs_id": [2, 3, 4]
+        },
+        {
+            "id": 5,
+            "name": "Shiba Inu",
+            "abbreviation": "SHIB",
+            "price_in_dollars": 0.00000001948,
+            "change_in_percent": -8.1,
+            "tvl": 60000,
+            "icon_path": "SHIBA INU (SHIB).svg",
+            "icon_theme": "#E42D04",
+            "popular_pairs_id": [2, 3, 4]
+        }
+    ]
+}
